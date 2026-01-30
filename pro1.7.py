@@ -1,3 +1,5 @@
+# 7. Write a program to create a list and perform various operations on list using menu.
+
 def display_menu():
     print("\n--- List Operations Menu ---")
     print("1. Add element")
@@ -56,3 +58,4 @@ def list_operations():
 
 if __name__ == "__main__":
     list_operations()
+
