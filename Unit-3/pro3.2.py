@@ -14,8 +14,8 @@ class Student:
         print("Age:", self.Age)
         print("Gender:", self.Gender)
 
-
 s = Student()
 
 s.AddStudent()
 s.DisplayStudent()
+
