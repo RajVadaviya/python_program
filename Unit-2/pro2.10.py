@@ -23,7 +23,6 @@ def zip_files():
 
     print(f"Zipping completed! Saved at: {zip_path}\n")
 
-
 def unzip_files():
     zip_name = input("Enter zip file name to unzip: ").strip()
     extract_to = input("Enter folder name to extract to: ").strip()
