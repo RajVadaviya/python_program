@@ -18,4 +18,3 @@ s = Student()
 
 s.AddStudent()
 s.DisplayStudent()
-
