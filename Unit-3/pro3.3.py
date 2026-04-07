@@ -15,7 +15,6 @@ class Student:
     def showSchool(cls):
         print("School Name:", cls.school)
 
-
 s1 = Student("Natho", 85)
 
 s1.display()
