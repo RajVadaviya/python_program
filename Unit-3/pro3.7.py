@@ -1,5 +1,6 @@
 # 7) Use appropriate functions for each classWrite a program to display MRO using multiple inheritance. Multiple inheritance can be done as per your choice. 
 
+
 class M:
     def showA(self):
         print("Class M Method")
