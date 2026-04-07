@@ -14,7 +14,6 @@ class Number:
     def display(self):
         print("Value:", self.value)
 
-
 n1 = Number(20)
 n2 = Number(10)
 
