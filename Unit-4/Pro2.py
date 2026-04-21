@@ -13,3 +13,4 @@ print(df[(df["Gender"] == "Male") & (df["City"] == "Rajkot")])
 
 print("\nStudents Age >= 20:")
 print(df[df["Age"] >= 20])
+
