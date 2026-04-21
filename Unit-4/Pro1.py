@@ -7,3 +7,4 @@ print(df.columns)
 
 print("\nData Types:")
 print(df.dtypes)
+
