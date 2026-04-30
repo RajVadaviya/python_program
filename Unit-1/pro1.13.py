@@ -15,3 +15,4 @@ print("Even numbers:", evens)
 # 3. reduce() with lambda → sum of all numbers
 total = reduce(lambda a, b: a + b, numbers)
 print("Sum of all numbers:", total)
+
