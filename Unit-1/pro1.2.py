@@ -19,4 +19,3 @@ else:
     result="invalid operator"
 
 print("Result:",result)
-      
