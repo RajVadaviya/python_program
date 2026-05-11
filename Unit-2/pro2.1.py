@@ -23,3 +23,4 @@ else:
 
 finally:
     print("Program executed successfully (Exception handling demo).")
+
