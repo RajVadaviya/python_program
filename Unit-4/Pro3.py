@@ -10,3 +10,4 @@ print(df.dropna())
 
 print("\nAfter fillna():")
 print(df.fillna("Not Available"))
+
